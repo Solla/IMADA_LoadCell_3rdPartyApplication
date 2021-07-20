@@ -36,23 +36,19 @@ The response time we get will cover:
 
 0. Download the code, modify the packet to Arduino in this code.
 
-1. Find the IMADA COM port from **Windows Device Manager**
+1. Find the Arduino COM port from **Windows Device Manager**
 
-2. Find the Arduino COM port from **Windows Device Manager**
+2. Build the program and run it.
 
-3. Build the program and run it.
+3. Enter the Arduino's COM port (e.g., **COM4**)
 
-4. Enter the IMADA COM port (e.g. **COM3**)
-
-5. Enter the Arduino's COM port (e.g., **COM4**)
-
-5. Enter the Arduino's Baud Rate (e.g., **115200**)
-
-6. Enter the file name of results (e.g., **Force.tsv**)
+4. Enter the Arduino's Baud Rate (e.g., **115200**)
 
 The program will store the results into **.tsv** . 
 
 Open it by Excel/Numbers/other spreadsheet software.
+
+The program will also calculate response time automatically. The results will be printed on screen.
 
 # Extra Material
 

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29709.97
+VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMADA_Force_Measure", "IMADA_Force_Measure\IMADA_Force_Measure.csproj", "{0B92218C-E372-4CD6-8D11-25FEB2DA2C3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMADA_Force_Measure", "IMADA_Force_Measure\IMADA_Force_Measure.csproj", "{16648E93-F026-4ECA-9634-57F7BEC5A237}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B92218C-E372-4CD6-8D11-25FEB2DA2C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B92218C-E372-4CD6-8D11-25FEB2DA2C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B92218C-E372-4CD6-8D11-25FEB2DA2C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B92218C-E372-4CD6-8D11-25FEB2DA2C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16648E93-F026-4ECA-9634-57F7BEC5A237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16648E93-F026-4ECA-9634-57F7BEC5A237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16648E93-F026-4ECA-9634-57F7BEC5A237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16648E93-F026-4ECA-9634-57F7BEC5A237}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0839D1EC-33EF-47D6-9F98-D87A83BCF0C9}
+		SolutionGuid = {2959AEA5-146C-47C3-95CC-748EEA3D221D}
 	EndGlobalSection
 EndGlobal
